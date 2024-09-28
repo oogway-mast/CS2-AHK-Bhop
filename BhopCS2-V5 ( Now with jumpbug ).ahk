@@ -10,7 +10,7 @@ SetTitleMatchMode, 2
 SetTitleMatchMode, Fast ; Faster matching
 TICK_64_MS := 13.5
 exit_key := "End"
-activation_key := "xButton1"
+activation_key := "space"
 
 Gui, Font, cFFFFFF 
 Gui, Add, Text, x10 y10 w50 h50, Important :
